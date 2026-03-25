@@ -1,18 +1,18 @@
-# Análisis de Películas en Netflix
+# Análisis de fuga de clientes en Movistar
 
-![Netflix Movies](https://images.unsplash.com/photo-1611162617474-5b21e879e113)
+[![Movistar Logo](movistar_elige_todo_logo1.jpg)](https://www.movistar.com.co/)
 
 ## Descripción
-Este proyecto analiza datos de películas disponibles en Netflix, enfocándose en géneros, duración, calificaciones y tendencias de contenido para identificar patrones dentro de la plataforma.
+En este proyecto se utilizara **machine learning** para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
 
-## Objetivo
-El objetivo principal es comprender qué tipos de películas son más populares y cómo varían según características como género, duración y año de lanzamiento.
-
-## Herramientas y Tecnologías
-- Python  
-- Pandas  
-- Matplotlib / Seaborn  
-- Excel (para la recolección de datos)
+## Base de datos a analizar: 
+Se analizara una base de datos que contenga la totalidad de clientes de la compañia (aprox. 20000) En esta base de datos se analizaran las siguientes variables:
+| Variable a analizar | Medida |
+|---------------------|--------|
+| Antiguedad del contrato    | meses  |
+| Monto de la factura    | COP   |
+| Quejas al soporte tecnico   | Cantidad discreta   |
+| Uso de datos | GB   |
 
 ## Metodología
 1. Recolección de datos de películas en Netflix  
