@@ -1,12 +1,12 @@
-# Análisis del Uso de Redes Sociales
+# Análisis de Películas en Netflix
 
-![Instagram Analysis](https://images.unsplash.com/photo-1581276879432-15a3b0f9c4f7)
+![Netflix Movies](https://images.unsplash.com/photo-1581905764498-87c8a7e1c7e6)
 
 ## Descripción
-Este proyecto analiza los patrones de uso de redes sociales en jóvenes, enfocándose en el tiempo de uso diario, las plataformas más utilizadas y los hábitos digitales para identificar tendencias de comportamiento.
+Este proyecto analiza datos de películas disponibles en Netflix, enfocándose en géneros, duración, calificaciones y tendencias de contenido para identificar patrones dentro de la plataforma.
 
 ## Objetivo
-El objetivo principal es comprender cómo se utilizan las redes sociales e identificar patrones que puedan influir en la productividad y las rutinas diarias.
+El objetivo principal es comprender qué tipos de películas son más populares y cómo varían según características como género, duración y año de lanzamiento.
 
 ## Herramientas y Tecnologías
 - Python  
@@ -15,16 +15,16 @@ El objetivo principal es comprender cómo se utilizan las redes sociales e ident
 - Excel (para la recolección de datos)
 
 ## Metodología
-1. Recolección de datos mediante encuestas o datasets de ejemplo  
+1. Recolección de datos de películas en Netflix  
 2. Limpieza y organización de los datos  
 3. Análisis exploratorio de datos (EDA)  
 4. Visualización de patrones y tendencias  
 
 ## Resultados Esperados
-- Identificación de horas pico de uso  
-- Plataformas más utilizadas  
-- Tiempo promedio diario en redes sociales  
-- Insights sobre el comportamiento de los usuarios  
+- Identificación de los géneros más populares  
+- Distribución de la duración de las películas  
+- Tendencias por año de lanzamiento  
+- Insights sobre preferencias de contenido  
 
 ## Estructura del Proyecto
 data/          # conjuntos de datos  
@@ -39,6 +39,6 @@ README.md      # documentación del proyecto
 - Robinson Javier Galindo - (agregar código)  
 
 ## Mejoras Futuras
-- Incluir conjuntos de datos más grandes  
-- Aplicar modelos de machine learning  
-- Analizar el impacto en la salud mental o el rendimiento académico  
+- Incluir series además de películas  
+- Aplicar modelos de recomendación  
+- Analizar tendencias por país o región  
