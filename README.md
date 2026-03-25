@@ -22,8 +22,11 @@ Para este proyecto se utilizara python. En consecuencia, se hara uso diferentes 
 
 ## Metodologia
 Antes de inicar el analisis se hara la debida limpieza de datos haciendo uso de la herramienta **pandas**. Seguido a esto se revisara que clientes poseen mas de dos caracterisitcas no deseadas. Dichas caracteristicas no deseadas son:
+
 - Mas de tres quejas a servicio al cliente
 - Inconsistencias notables entre el uso de datos y el costo de la factura. Por ejemplo, cuando el uso de datos es menor a 100 GB y la factura cuesta 200.000COP
+
+Luego de esto se alimentara esta información a un modelo de aprendizaje que nos arroje una clasificación de usuarios. Por ultimo, se evaluara dicho modelo para encontrar que tan preciso es. Si este modelo no alcanza una precision del 90% se reevaluaran los tipos de datos que se estan usando para entrenarlo y el acercamiento al problema.
 
 ## Resultados Esperados
 - Identificación de los géneros más populares  
