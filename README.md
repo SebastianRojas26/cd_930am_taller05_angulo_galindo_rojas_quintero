@@ -1,6 +1,6 @@
 # Análisis de Películas en Netflix
 
-![Netflix Movies](https://images.unsplash.com/photo-1581905764498-87c8a7e1c7e6)
+![Netflix Movies](https://images.unsplash.com/photo-1611162617474-5b21e879e113)
 
 ## Descripción
 Este proyecto analiza datos de películas disponibles en Netflix, enfocándose en géneros, duración, calificaciones y tendencias de contenido para identificar patrones dentro de la plataforma.
