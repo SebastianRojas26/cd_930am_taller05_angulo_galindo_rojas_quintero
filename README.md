@@ -1,5 +1,4 @@
 # Análisis de fuga de clientes en Movistar
-Imagen centrada
 <p align="center">
     <img src="movistar_elige_todo_logo1.jpg" alt="Movistar Logo" width="500"/>
 </p>
