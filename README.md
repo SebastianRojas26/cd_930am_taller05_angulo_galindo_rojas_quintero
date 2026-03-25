@@ -1,6 +1,6 @@
 # Análisis del Uso de Redes Sociales
 
-![Social Media Analysis](https://images.unsplash.com/photo-1611162617474-5b21e879e113)
+![Instagram Analysis](https://images.unsplash.com/photo-1611262588019-db6cc2032da3)
 
 ## Descripción
 Este proyecto analiza los patrones de uso de redes sociales en jóvenes, enfocándose en el tiempo de uso diario, las plataformas más utilizadas y los hábitos digitales para identificar tendencias de comportamiento.
