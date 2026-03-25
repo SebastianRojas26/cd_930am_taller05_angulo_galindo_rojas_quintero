@@ -14,11 +14,16 @@ Se analizara una base de datos que contenga la totalidad de clientes de la compa
 | Quejas al soporte tecnico   | Cantidad discreta   |
 | Uso de datos | GB   |
 
-## Metodología
-1. Recolección de datos de películas en Netflix  
-2. Limpieza y organización de los datos  
-3. Análisis exploratorio de datos (EDA)  
-4. Visualización de patrones y tendencias  
+## Herramientas tecnologicas utlizadas
+Para este proyecto se utilizara python. En consecuencia, se hara uso diferentes librerias de python para la manipulation de los datos, como lo son:
+1. Pandas (limpieza)
+2. Scikit-learn (modelado)
+3. Matplotlib y seaborn (visualization de datos).
+
+## Metodologia
+Antes de inicar el analisis se hara la debida limpieza de datos haciendo uso de la herramienta **pandas**. Seguido a esto se revisara que clientes poseen mas de dos caracterisitcas no deseadas. Dichas caracteristicas no deseadas son:
+- Mas de tres quejas a servicio al cliente
+- Inconsistencias notables entre el uso de datos y el costo de la factura. Por ejemplo, cuando el uso de datos es menor a 100 GB y la factura cuesta 200.000COP
 
 ## Resultados Esperados
 - Identificación de los géneros más populares  
