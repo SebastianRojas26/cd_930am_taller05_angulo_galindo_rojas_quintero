@@ -2,6 +2,12 @@
 
 [![Movistar Logo](movistar_elige_todo_logo1.jpg)](https://www.movistar.com.co/)
 
+## Integrantes del Equipo
+- Ana Sofía Angulo - 202611661  
+- Sebastian Rojas - 202612021  
+- Juan Manuel Quintero - 202610465  
+- Robinson Javier Galindo - (agregar código)
+  
 ## Descripción
 En este proyecto se utilizara **machine learning** para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
 
@@ -29,24 +35,17 @@ Antes de inicar el analisis se hara la debida limpieza de datos haciendo uso de 
 Luego de esto se alimentara esta información a un modelo de aprendizaje que nos arroje una clasificación de usuarios. Por ultimo, se evaluara dicho modelo para encontrar que tan preciso es. Si este modelo no alcanza una precision del 90% se reevaluaran los tipos de datos que se estan usando para entrenarlo y el acercamiento al problema.
 
 ## Resultados Esperados
-- Identificación de los géneros más populares  
-- Distribución de la duración de las películas  
-- Tendencias por año de lanzamiento  
-- Insights sobre preferencias de contenido  
+Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nuestros resultados seran presentados de la siguiente manera:
+1. Exposición del problema
+2. Metodología
+   Breve explicación de la metodologia empleada
+4. Resultados/Gráficos
+   Para una optima visualizacion los resultados del modelo seran presentados en graficos similares a los siguientes en donde se muestre la dispersion de clientes      en las cuatro categorias.
 
-## Estructura del Proyecto
-data/          # conjuntos de datos  
-notebooks/     # análisis (Jupyter notebooks)  
-src/           # scripts  
-README.md      # documentación del proyecto  
+|Categoria |  No probable | Poco probable | Probable |Altamente probable |
+|-----------|-----------|-----------|-----------|-----------|
+| Porcentaje | 0-25  | 25-50  |50-75 |75-100|
 
-## Integrantes del Equipo
-- Ana Sofía Angulo - 202611661  
-- Sebastian Rojas - 202612021  
-- Juan Manuel Quintero - 202610465  
-- Robinson Javier Galindo - (agregar código)  
-
-## Mejoras Futuras
-- Incluir series además de películas  
-- Aplicar modelos de recomendación  
-- Analizar tendencias por país o región  
+4. Analísis de los resultados
+   Se hara un analisis en donde se expongan los clientes que se encuentran en las ultimas dos categorias al equipo de marketing.
+5. Conclusión
