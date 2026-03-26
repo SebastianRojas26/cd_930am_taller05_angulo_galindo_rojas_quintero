@@ -8,7 +8,7 @@
 </p>
 
 
-## Integrantes del Equipo
+## ⭐ Integrantes del Equipo
 - Ana Sofía Angulo - 202611661  
 - Sebastian Rojas - 202612021  
 - Juan Manuel Quintero - 202610465  
@@ -17,7 +17,7 @@
 ## Descripción
 En este proyecto se utilizara **machine learning** para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
 
-## Base de datos a analizar: 
+## 🔎 Base de datos a analizar: 
 Se analizara una base de datos que contenga la totalidad de clientes de la compañia (aprox. 20000) En esta base de datos se analizaran las siguientes variables:
 | Variable a analizar | Medida |
 |---------------------|--------|
@@ -26,13 +26,13 @@ Se analizara una base de datos que contenga la totalidad de clientes de la compa
 | Quejas al soporte tecnico   | Cantidad discreta   |
 | Uso de datos | GB   |
 
-## Herramientas tecnologicas utlizadas
+##  Herramientas tecnologicas utlizadas
 Para este proyecto se utilizara python. En consecuencia, se hara uso diferentes librerias de python para la manipulation de los datos, como lo son:
 1. Pandas (limpieza)
 2. Scikit-learn (modelado)
 3. Matplotlib y seaborn (visualization de datos).
 
-## Metodologia
+## 🖥️Metodologia
 Antes de inicar el analisis se hara la debida limpieza de datos haciendo uso de la herramienta **pandas**. Seguido a esto se revisara que clientes poseen mas de dos caracterisitcas no deseadas. Dichas caracteristicas no deseadas son:
 
 - Mas de tres quejas a servicio al cliente
