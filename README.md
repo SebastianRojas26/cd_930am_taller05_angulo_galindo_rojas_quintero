@@ -19,7 +19,7 @@ Robinson Javier Galindo - (agregar código)
 </p>
   
 ## Descripción
-En este proyecto se utilizara **machine learning** para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
+En este proyecto se utilizara [**machine learning**](https://www.ibm.com/mx-es/think/topics/machine-learning) para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
 
 ## 🔎 Base de datos a analizar: 
 Se analizara una base de datos que contenga la totalidad de clientes de la compañia (aprox. 20000) En esta base de datos se analizaran las siguientes variables:
