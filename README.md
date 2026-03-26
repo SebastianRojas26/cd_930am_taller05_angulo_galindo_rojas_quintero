@@ -21,7 +21,7 @@ Robinson Javier Galindo - (agregar código)
 ## 📃 Tabla de contenidos
 - [Descripción](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8F-descripci%C3%B3n)
 - [Base de datos a analizar](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#-base-de-datos-a-analizar)
-- [Herramientas tecnológicas utilizadas](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#herramientas-tecnologicas-utlizadas)
+- [Herramientas tecnológicas utilizadas](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main#-herramientas-tecnologicas-utlizadas)
 - [Metodología](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8Fmetodologia)
 - [Resultados esperados](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#bulb-resultados-esperados)
 
