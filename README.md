@@ -68,7 +68,7 @@ Luego de esto, se alimentará esta información a un modelo de aprendizaje que n
 
 <p align="center">
     <img src="WhatsApp Image 2026-03-25 at 6.57.41 PM.jpeg" width="400"/>
-    <img src="img2.png" width="400"/>
+    <img src="grafico2.png" width="400"/>
 </p>
 
 4. Análisis de los resultados  
