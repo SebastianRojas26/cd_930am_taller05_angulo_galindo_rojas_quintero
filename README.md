@@ -19,18 +19,19 @@ Robinson Javier Galindo - (agregar código)
 </p>
 
 ## 📃 Tabla de contenidos
-- [Descripción](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8F-descripci%C3%B3n)
-- [Base de datos a analizar](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#-base-de-datos-a-analizar)
-- [Herramientas tecnológicas utilizadas](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main#-herramientas-tecnologicas-utlizadas)
-- [Metodología](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8Fmetodologia)
-- [Resultados esperados](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#bulb-resultados-esperados)
+- - [Descripción](#️-descripción)
+- [Base de datos a analizar](#-base-de-datos-a-analizar)
+- [Herramientas tecnológicas utilizadas](#-herramientas-tecnológicas-utilizadas)
+- [Metodología](#️metodología)
+- [Resultados esperados](#bulb-resultados-esperados)
+
 
   
 ## 🗣️ Descripción
 En este proyecto se utilizara [**machine learning**](https://www.ibm.com/mx-es/think/topics/machine-learning) para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
 
 ## 🔎 Base de datos a analizar: 
-Se analizara una base de datos que contenga la totalidad de clientes de la compañia (aprox. 20000) En esta base de datos se analizaran las siguientes variables:
+Se analizará una base de datos que contenga la totalidad de clientes de la compañia (aprox. 20000) En esta base de datos se analizaran las siguientes variables:
 | Variable a analizar | Medida |
 |---------------------|--------|
 | Antiguedad del contrato    | meses  |
