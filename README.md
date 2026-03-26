@@ -49,7 +49,7 @@ Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nue
 | Porcentaje | 0-25  | 25-50  |50-75 |75-100|
 Varias imágenes en fila
 <p align="center">
-    <img src="WhatsApp Image 2026-03-25 at 6.57.41.jpeg" width="400"/>
+    <img src="WhatsApp Image 2026-03-25 at 6.57.41 PM.jpeg" width="400"/>
     <img src="img2.png" width="400"/>
 </p>
 
