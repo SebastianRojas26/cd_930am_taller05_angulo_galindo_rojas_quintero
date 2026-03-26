@@ -20,10 +20,10 @@ Robinson Javier Galindo - (agregar código)
 
 ## 📃 Tabla de contenidos
 - [Descripción](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8F-descripci%C3%B3n)
-- [Base de datos a analizar](#-basedatos)
-- [Herramientas tecnológicas utilizadas](#-herramientas)
-- [Metodología](#-metodologia)
-- [Resultados esperados](#-resultados)
+- [Base de datos a analizar](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#-base-de-datos-a-analizar)
+- [Herramientas tecnológicas utilizadas](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#herramientas-tecnologicas-utlizadas)
+- [Metodología](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8Fmetodologia)
+- [Resultados esperados](https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#bulb-resultados-esperados)
 
   
 ## 🗣️ Descripción
@@ -38,7 +38,7 @@ Se analizara una base de datos que contenga la totalidad de clientes de la compa
 | Quejas al soporte tecnico   | Cantidad discreta   |
 | Uso de datos | GB   |
 
-##  Herramientas tecnologicas utlizadas
+## 🐍 Herramientas tecnologicas utlizadas
 Para este proyecto se utilizara python. En consecuencia, se hara uso diferentes librerias de python para la manipulation de los datos, como lo son:
 1. Pandas (limpieza)
 2. Scikit-learn (modelado)
