@@ -19,7 +19,7 @@ Robinson Javier Galindo - (agregar código)
 </p>
 
 ## 📃 Tabla de contenidos
-- [Descripción](#-)
+- [Descripción](#https://github.com/SebastianRojas26/cd_930am_taller05_angulo_galindo_rojas_quintero/tree/main?tab=readme-ov-file#%EF%B8%8F-descripci%C3%B3n)
 - [Base de datos a analizar](#-basedatos)
 - [Herramientas tecnológicas utilizadas](#-herramientas)
 - [Metodología](#-metodologia)
