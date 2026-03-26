@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner del Proyecto">
 </p>
 
-# Análisis de fuga de clientes en Movistar
+# Análisis de fuga de clientes en [**Movistar**](https://www.movistar.com.co/).
 <p align="center">
     <img src="movistar.png" alt="Movistar Logo" width="500"/>
 </p>
