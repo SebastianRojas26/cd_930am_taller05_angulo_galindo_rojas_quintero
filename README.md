@@ -7,12 +7,15 @@
     <img src="movistar.png" alt="Movistar Logo" width="500"/>
 </p>
 
-<p align="center">
 ## ⭐ Integrantes del Equipo
-- Ana Sofía Angulo - 202611661  
-- Sebastian Rojas - 202612021  
-- Juan Manuel Quintero - 202610465  
-- Robinson Javier Galindo - (agregar código)
+<p align="center">
+Ana Sofía Angulo - 202611661
+<br/>
+Sebastian Rojas - 202612021
+<br/>
+Juan Manuel Quintero - 202610465 
+<br/>
+Robinson Javier Galindo - (agregar código)
 </p>
   
 ## Descripción
