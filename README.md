@@ -41,11 +41,7 @@ Antes de inicar el analisis se hara la debida limpieza de datos haciendo uso de 
 Luego de esto se alimentara esta información a un modelo de aprendizaje que nos arroje una clasificación de usuarios. Por ultimo, se evaluara dicho modelo para encontrar que tan preciso es. Si este modelo no alcanza una precision del 90% se reevaluaran los tipos de datos que se estan usando para entrenarlo y el acercamiento al problema.
 
 ## Resultados Esperados
-<details>
-    <summary> Resultados esperados </summary>
-<details>
-  
-Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nuestros resultados seran presentados de la siguiente manera:
+<Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nuestros resultados seran presentados de la siguiente manera:>
 1. Exposición del problema
 2. Metodología
    Breve explicación de la metodologia empleada
