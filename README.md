@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CIENCIA DE DATOS 1001T.png" alt="Banner del Proyecto">
+  <img src="banner.png" alt="Banner del Proyecto">
 </p>
 
 # Análisis de fuga de clientes en Movistar
