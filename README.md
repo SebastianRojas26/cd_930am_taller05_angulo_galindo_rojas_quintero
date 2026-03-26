@@ -19,11 +19,11 @@ Robinson Javier Galindo - (agregar código)
 </p>
 
 ## Tabla de contenidos
-- [Descripción](#-Descripción)
-- [Base de datos a analizar](#-🔎 Base de datos a analizar)
-- [Herramientas tecnológicas utilizadas](#-certification)
-- [Metodología](#-how-to-build)
-- [Resultados esperados](#-documentation)
+- [Descripción](#-desc)
+- [Base de datos a analizar](#-basedatos)
+- [Herramientas tecnológicas utilizadas](#-herramientas)
+- [Metodología](#-metodologia)
+- [Resultados esperados](#-resultados)
 
   
 ## Descripción
