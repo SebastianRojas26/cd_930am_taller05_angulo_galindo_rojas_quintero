@@ -4,15 +4,16 @@
 
 # Análisis de fuga de clientes en [**Movistar**](https://www.movistar.com.co/)
 <p align="center">
-    [<img src="movistar.png" alt="Movistar Logo" width="500"/>](https://www.movistar.com.co/)
+    <img src="movistar.png" alt="Movistar Logo" width="500"/>
 </p>
 
-
+<p align="center">
 ## ⭐ Integrantes del Equipo
 - Ana Sofía Angulo - 202611661  
 - Sebastian Rojas - 202612021  
 - Juan Manuel Quintero - 202610465  
 - Robinson Javier Galindo - (agregar código)
+</p>
   
 ## Descripción
 En este proyecto se utilizara **machine learning** para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
