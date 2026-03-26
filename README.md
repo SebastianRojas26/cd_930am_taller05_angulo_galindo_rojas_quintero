@@ -42,9 +42,8 @@ Luego de esto se alimentara esta información a un modelo de aprendizaje que nos
 
 ## Resultados Esperados
 <details>
-    <summary> Descripción </summary>
+    <summary> Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nuestros resultados seran presentados de la siguiente manera: </summary>
 
-### Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nuestros resultados seran presentados de la siguiente manera:
 1. Exposición del problema
 2. Metodología
    Breve explicación de la metodologia empleada
