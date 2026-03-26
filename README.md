@@ -4,7 +4,7 @@
 
 # Análisis de fuga de clientes en Movistar
 <p align="center">
-    <img src="movistar.png" alt="Movistar Logo" width="700"/>
+    <img src="movistar.png" alt="Movistar Logo" width="500"/>
 </p>
 
 
