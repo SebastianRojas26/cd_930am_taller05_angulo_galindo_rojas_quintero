@@ -18,7 +18,7 @@ Juan Manuel Quintero - 202610465
 Robinson Javier Galindo - (agregar código)
 </p>
 
-## Tabla de contenidos
+## 📃 Tabla de contenidos
 - [Descripción](#-desc)
 - [Base de datos a analizar](#-basedatos)
 - [Herramientas tecnológicas utilizadas](#-herramientas)
@@ -26,7 +26,7 @@ Robinson Javier Galindo - (agregar código)
 - [Resultados esperados](#-resultados)
 
   
-## Descripción
+## 🗣️ Descripción
 En este proyecto se utilizara [**machine learning**](https://www.ibm.com/mx-es/think/topics/machine-learning) para identificar clientes con una alta probabilidad de cancelar su servicio. El objetivo de este trabajo es avisarle al equipo de marketing con anticipacion para que se pueda prevenir el retiro de los clientes.
 
 ## 🔎 Base de datos a analizar: 
@@ -52,7 +52,7 @@ Antes de inicar el analisis se hara la debida limpieza de datos haciendo uso de 
 
 Luego de esto se alimentara esta información a un modelo de aprendizaje que nos arroje una clasificación de usuarios. Por ultimo, se evaluara dicho modelo para encontrar que tan preciso es. Si este modelo no alcanza una precision del 90% se reevaluaran los tipos de datos que se estan usando para entrenarlo y el acercamiento al problema.
 
-## Resultados Esperados
+## :bulb: Resultados Esperados
 <details>
     <summary> Teniendo en cuenta que el objetivo va dirijido hacia el equipo de marketing, nuestros resultados seran presentados de la siguiente manera: </summary>
 
